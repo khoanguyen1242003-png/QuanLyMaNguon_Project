@@ -1,3 +1,4 @@
+
 function login() {
     console.log('Login logic v2 with OAuth2');
 }
